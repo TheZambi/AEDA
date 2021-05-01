@@ -1,0 +1,6 @@
+.idea
+cmake-build-debug
+lib
+.vs
+Debug
+mingw32
